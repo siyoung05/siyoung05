@@ -1,5 +1,5 @@
 # Moon Si Young
-Java와 HTML, C등을 공부하며 보안쪽에 관심이 있는 학생입니다.
+Java와 PHP, C등을 공부하며 보안쪽에 관심이 있는 학생입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiYoung05&show_icons=true&theme=highcontrast)
 
