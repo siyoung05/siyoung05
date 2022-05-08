@@ -1,5 +1,5 @@
 # Moon Si Young
-JAVA, Kotlin를 공부하며 안드로이드 앱 개발공부하고 있는 학생입니다.
+안드로이드 앱과 게임 개발을 공부하고있는 학생입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiYoung05&show_icons=true&theme=highcontrast)
 
