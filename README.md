@@ -1,5 +1,5 @@
 # Moon Si Young
-안드로이드 앱과 게임 개발을 공부하고있는 학생입니다.
+안드로이드 앱과 인공지능에 관련하여 공부중인 학생입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiYoung05&show_icons=true&theme=highcontrast)
 
